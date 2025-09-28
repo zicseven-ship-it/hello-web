@@ -2,10 +2,36 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hello Web</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f4f6f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 20px 0;
+    }
+    main {
+      padding: 40px;
+    }
+    p {
+      color: #333;
+      font-size: 18px;
+    }
+  </style>
 </head>
 <body>
-  <h1>Halo, GitHub!</h1>
-  <p>Website pertama saya pakai GitHub Pages 🎉</p>
+  <header>
+    <h1>Hello Web 🚀</h1>
+  </header>
+  <main>
+    <p>Selamat datang di proyek website pertamaku dengan GitHub Pages 🎉</p>
+  </main>
 </body>
 </html>
